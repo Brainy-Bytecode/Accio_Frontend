@@ -36,7 +36,7 @@ search something: ctrl + f
 
 Absolute path(exact path)
  we specify the address of the file starting from root folder(directory)
- C:\Users\Aravind\OneDrive\Desktop\acciojob\march\basics.txt
+ C:\Users\fastf\Desktop\AccioJob(Frontend Module)\march\memo.txt
 
 Relative path: 
    We can specify a file address relative to another file 
